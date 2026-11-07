@@ -5,9 +5,9 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · devarshp610</sub></p>
 <h1>Devarsh</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>Backend or full-stack engineer</h2>
+<p>Wsg.</p>
+<p><strong>● Making decently good projects</strong></p>
 
 <p><a href="https://github.com/devarshp610">GitHub</a></p>
 </td>
